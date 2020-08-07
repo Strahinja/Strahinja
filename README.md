@@ -1,3 +1,29 @@
+<table border="0" width="100%" align="center">
+  <tbody width="100%">
+    <tr width="100%">
+      <td>
+        <a href="https://strahinja.org" title="//strahinja.org">
+          //strahinja.org
+        </a>
+      </td>
+      <td>
+        <a href="https://strahinja.org/portfolio" title="Portfolio">
+          Portfolio
+        </a>
+      </td>
+      <td>
+        <a href="https://linkedin.com/in/strahinja-radic" title="LinkedIn">
+          LinkedIn
+        </a>
+      </td>
+      <td>
+        <a href="https://codepen.io/Strahinja/" title="Codepen.io">
+          Codepen.io
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!--div class="col-12 col-sm-6 col-md-3">
   <a href="https://strahinja.org" class="btn btn-large btn-outline">
     <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" role="img" viewBox="0 0 24 24" version="1.1" id="svg3771" sodipodi:docname="strahinjaorg.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" class="octicon octicon-repo mr-2 flex-shrink-0" height="16" width="16">
