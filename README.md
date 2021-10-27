@@ -11,8 +11,8 @@
         </a>
       </td>
       <td>
-        <a href="https://strahinja.org/portfolio" title="Portfolio">
-          Portfolio
+        <a href="https://aur.archlinux.org/packages/?SeB=m&K=strajder" title="AUR">
+          AUR
         </a>
       </td>
       <td>
